@@ -1,0 +1,18 @@
+{
+  "name": "loke-validator",
+  "version": "1.0.0",
+  "description": "Validates objects against a model spec",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Den Williams",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^5.0.1"
+  },
+  "dependencies": {
+    "validate.js": "^0.4.0"
+  }
+}
