@@ -1,5 +1,5 @@
 {
-  "name": "loke-validator",
+  "name": "@loke/validator",
   "version": "1.0.0",
   "description": "Validates objects against a model spec",
   "main": "lib/index.js",
